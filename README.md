@@ -11,3 +11,6 @@ print(n)
 n.insert(0,"blue")
 print(n)
 #"blue" has been inserted in (n) on index 0
+for loop in l:
+ print(loop)
+#loop l has been created
